@@ -1,0 +1,16 @@
+{
+  "Name": "Social Credit Mod",
+  "Author": "pjstarr12",
+  "Description": "https://discord.gg/ZJaTzsCfGQ",
+  "ModVersion": "1.02",
+  "GameVersion": "1.0+ i think",
+  "ThumbnailPath": "ModIcon.png",
+  "EntryPoint": "Mod.Mod",
+  "Tags": [],
+  "Scripts": [
+    "main.cs"
+  ],
+  "Active": false,
+  "UGCIdentity": null,
+  "CreatorUGCIdentity": "2675378078"
+}
